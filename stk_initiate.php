@@ -23,8 +23,8 @@ if(isset($_POST['submit'])){
     for developer/test accounts, this money will be reversed automatically by midnight.
   */
   
-   $PartyA = $_POST['phone']; // This is your phone number, 
-  $AccountReference = $_POST['2255'];
+   $PartyA = '254740495903'; // This is your phone number, 
+  $AccountReference = 'Stephen Ventures';
   $TransactionDesc = 'Test Payment';
   $Amount = $_POST['amount'];;
  
