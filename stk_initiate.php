@@ -24,7 +24,7 @@ if(isset($_POST['submit'])){
   */
   
    $PartyA = $_POST['phone']; // This is your phone number, 
-  $AccountReference = '2255';
+  $AccountReference = $_POST['2255'];
   $TransactionDesc = 'Test Payment';
   $Amount = $_POST['amount'];;
  
