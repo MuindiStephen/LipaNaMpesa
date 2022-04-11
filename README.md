@@ -16,7 +16,7 @@ made with 💖 BY Stephen Muindi
 edit the credentials in stk_initiate.php and it will work perfectly😎🌈
 
 # Daraja APi Real pop up screen payment by the Stk push 
-<p style="float:left">
+<p>
 ![](Screenshot_20220410-181015.jpg) ![](Screenshot_20220410-181732.jpg)
 ![](Screenshot 2022-04-10 192528.jpg)
  </p>
@@ -28,8 +28,8 @@ https://shrouded-refuge-39316.herokuapp.com/
 NB: Remember to have a working domain, for this case, i have used heroku.com.
 
 ## Let's connect and collaborate on code
-![Github](https://github.com/MuindiStephen)
-![Linkedin](https://www.linkedin.com/in/stephen-muindi-3a31741a0)
+- ![Github](https://github.com/MuindiStephen)
+- ![Linkedin](https://www.linkedin.com/in/stephen-muindi-3a31741a0)
 
 
 
