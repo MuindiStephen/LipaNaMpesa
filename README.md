@@ -15,11 +15,10 @@ made with 💖 BY Stephen Muindi
 
 edit the credentials in stk_initiate.php and it will work perfectly😎🌈
 
-# Daraja APi Real pop up screen payment by the Stk push 
-<p>
+# Daraja APi Real pop up screen payment by the Stk push
 ![](Screenshot_20220410-181015.jpg) ![](Screenshot_20220410-181732.jpg)
 ![](Screenshot 2022-04-10 192528.jpg)
- </p>
+
   
 
 # Visit Below site to also learn how it functions.
