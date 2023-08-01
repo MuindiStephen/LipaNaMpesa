@@ -1,4 +1,6 @@
-# REQUIREMENTS
+# Lipa Na Mpesa Integration in PHP
+#
+## REQUIREMENTS
 - Working domain.
  eg. Register your site with heroku, netlify etc.
 - Download and install heroku command line(cml).Visit to download, https://devcenter.heroku.com/articles/heroku-cli
@@ -10,7 +12,7 @@
   git push heroku (your github branch) eg.git push heroku master
   
 
-# Daraja-2.0-B2C-Intergration👨‍💻
+## Daraja-2.0-B2C-Intergration👨‍💻
 made with 💖 BY Stephen Muindi
 
 edit the credentials in stk_initiate.php and it will work perfectly😎🌈
