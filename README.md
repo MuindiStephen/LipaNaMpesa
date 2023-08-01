@@ -2,18 +2,11 @@
 #
 ## REQUIREMENTS
 - Working domain.
- eg. Register your site with heroku, netlify etc.
-- Download and install heroku command line(cml).Visit to download, https://devcenter.heroku.com/articles/heroku-cli
-- Create an account with heroku
--Create a new repository in git and push your code
-- Visual studio : in terminal write:
-  heroku new
-  heroku create
-  git push heroku (your github branch) eg.git push heroku master
-  
+ eg. Use url as a callback
+ 
 
 ## Daraja-2.0-B2C-Intergration👨‍💻
-made with 💖 BY Stephen Muindi
+- Made with 💖 BY Stephen Muindi
 
 edit the credentials in stk_initiate.php and it will work perfectly😎🌈
 
@@ -24,14 +17,14 @@ edit the credentials in stk_initiate.php and it will work perfectly😎🌈
 
   
 
-# Visit Below site to also learn how it functions.
-https://shrouded-refuge-39316.herokuapp.com/
+## Use this callback
+- https://posthere.io
 
 NB: Remember to have a working domain, for this case, i have used heroku.com.
 
 ## Let's connect and collaborate on code
-- ![Github](https://github.com/MuindiStephen)
-- ![Linkedin](https://www.linkedin.com/in/stephen-muindi-3a31741a0)
+- [Github](https://github.com/MuindiStephen)
+- [Linkedin](https://www.linkedin.com/in/stephen-muindi-3a31741a0)
 
 
 
